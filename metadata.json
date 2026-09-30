@@ -1,0 +1,6 @@
+{
+  "name": "VoyageAI - AI Travel Planning Assistant",
+  "description": "Plan your perfect journey with AI. VoyageAI designs personalized travel itineraries, flights, hotels, budgets, and smart packing lists powered by intelligent travel workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
